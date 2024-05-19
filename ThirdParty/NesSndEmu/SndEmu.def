@@ -1,4 +1,4 @@
-LIBRARY   SNDEMU
+LIBRARY
 EXPORTS
 	NesApuInit               @1
 	NesApuWriteRegister      @2
